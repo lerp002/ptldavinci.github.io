@@ -90,6 +90,7 @@
               <li><a href="story5.php">ฟังก์ชั่น Color</a></li>
               <li><a href="story6.php">ฟังก์ชั่น Fairlight</a></li>
               <li><a href="story7.php">ฟังก์ชั่น Deliver</a></li>
+              <li><a href="story8.php">การใช้งาน Davinci resolve เบื้องต้น</a></li>
             </ul>
           </li>
         </ul>
